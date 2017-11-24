@@ -1,0 +1,24 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Webpack tutorial",
+  "main": "bundle.js",
+  "dependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachakot/webpack.git"
+  },
+  "author": "Katarzyna Kotyńska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kachakot/webpack/issues"
+  },
+  "homepage": "https://github.com/kachakot/webpack#readme"
+}

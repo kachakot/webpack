@@ -668,7 +668,7 @@ module.exports = function (css) {
 /* 6 */
 /***/ (function(module, exports) {
 
-module.exports = "It works frossssm content.js.";
+module.exports = "It works from content.js.";
 
 /***/ })
 /******/ ]);
